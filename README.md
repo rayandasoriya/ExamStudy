@@ -6,5 +6,7 @@ This project is a complete and perfect example of Full Stack Web development. It
 Run the File on:
 https://exam-study.000webhostapp.com/
 
-Email: rayandasoriya@gmail.com  
+Username: OES/000/00
+
+
 password: 123456

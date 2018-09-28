@@ -5,7 +5,10 @@ It uses various features like admin privilages, adding students, taking test and
 
 ## Instalation
 Run the File on:
+```
 https://exam-study.000webhostapp.com/
+```
+Credentials are: 
 ```
 Username: OES/000/00
 password: 12345
